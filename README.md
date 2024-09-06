@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/@hooong.ee-DD2A7B?style=flat-square&logo=instagram&logoColor=white&labelColor=DD2A7B"/> &nbsp
 
 
-## ![header](https://capsule-render.vercel.app/api?&type=Rounded&color=ADD8E6&height=200&section=header&text=Welcome%20to%20Jonghwan's%20GitHub&fontSize=50)
+## ![header](https://capsule-render.vercel.app/api?&type=Rounded&color=ADD8E6&height=200&section=header&text=Welcome%20to%20Jinhongman's%20GitHub&fontSize=50)
 
 
 <!--
